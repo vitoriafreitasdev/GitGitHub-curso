@@ -47,6 +47,23 @@ segundo o criador:
 -tres letras do alfabeto da pra pronunciar e é um comando pequeno
 -Git é uma giria significa teimoso, cabeca-dura, pensa que sempre esta certo, homenagem a ele msm
 -Global information tracker
+-Goddamn idiot truckload of shit 
+
+-- GitHub, surgiu em 2008.
+- Proprietário
+- Hospedagem de código 
+- Baseado em Git
+- 2009 46k repositórios 
+- 2010 100k users e 1M repositórios 
+- 2011 Ultrapassou SourceForge
+- 2013 3m users / 5M repositórios 
+- 2016 14 lugar na lista da forbes 
+- 2018 Maior ataque do DDoS da história 
+- 2018 Adquiridos pela Microsoft 
+- por US$ 7.5 Bilhões
+- Operação independente 
+- 2020: GitHub compra a npm  
+
 
 
 
