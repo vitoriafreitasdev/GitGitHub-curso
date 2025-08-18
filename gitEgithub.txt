@@ -1,0 +1,62 @@
+gitEgithub
+##Git
+=> software de controle de versão 
+- Ferramenta de versionamento, muitas versões de uma mesma coisa
+- VCS (Controle de versão)
+VCS centralizado => precisam de um servidor constantemente/commit para repositório local
+exemplos: CA software Change Manager(CCC), Source Code Control System (SCCS), Panvalet, Concurrent Version System (CVS),
+Apache Subversion (SVN), ClearCase, Visual SourceSafe, Perforce.
+- VCS distribuídos: vai do repositório local para repositório remoto
+exemplos:
+mercurial, bazar, code Co-op, GNU arch, monotone, fóssil, BitKeeper, Git.
+GitHub => Plataforma de rede social para programadores
+
+-Principais vantegens
+-Controle de histórico
+-Trabalho em equipe
+-Ramificação do projeto
+-Segurança 
+-Organização
+
+Git !== GitHub
+                                     push
+pessoa ====> repositório local(git) ======> repositório remoto(GitHub)
+
+##GitHub
+
+-Repositórios ilimitados
+-Hospedagem de código-fonte
+-Características de rede social 
+-GitHub Pages integrado
+-Colaboração 
+-Forks
+
+
+#Surgimento do git/GitHub
+
+1985 CVS - centralizado, open source, + popular, alguns problemas(não podia renomear pasta, trocar de lugar)
+2000 SVN - centralizado, open source, ativo ate hoje, CVS-like(era muito parecido com cvs)
+2000 BitKeeper(criador trabalhou para na construção do kernel do linux) - distribuído, proprietário, versão comunidade(maior cliente era o Linux, kernel do Linux era disponibilizado através do bitkeeper), CVS-free(totalmente diferente do cvs)
+2004 BitKeeper - SourcePuller, engenharia reversa para destravar recursos que a versao gratis nao tinha
+2005 BitKeeper - Nova licença, Acesso a metadados, so na versao comercial 
+2005 Git criado pelo criador do linux, por conta de uma treta com o criador do bitkeeper, feito em 10 dias
+focado em performance
+
+-- Porque Git
+segundo o criador:
+-tres letras do alfabeto da pra pronunciar e é um comando pequeno
+-Git é uma giria significa teimoso, cabeca-dura, pensa que sempre esta certo, homenagem a ele msm
+-Global information tracker
+
+
+
+
+
+
+
+
+
+
+
+
+
