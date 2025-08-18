@@ -65,6 +65,24 @@ segundo o criador:
 - 2020: GitHub compra a npm  
 
 
+atalhos no GitHub desktop
+ctrl enter para commit to main e ctrl p para push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
