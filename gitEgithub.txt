@@ -69,7 +69,71 @@ atalhos no GitHub desktop
 ctrl enter para commit to main e ctrl p para push
 
 
+### linguagem markdown 
+-Titulo nivel 1(h1) => # titulo
+-Titulo nivel 2(h2) => ## titulo
+-Titulo nivel 3(h3) => ### titulo
+-**Negrito dois** => ** no inicio da frase e mais ** no fim OU __ no inicio e __ no fim
+-Link => [nome](url)
+-*italico* => * no inicio da frase e mais * no fim OU _ no inicio e _ no fim
+-Risco na palavra => ~~palavra~~
+-Para fazer uma linha => --- ou ***
+-Misturar => __*palavra*__ => negrito e italico 
+-Lista => 1. Palavra. Para fazer um subitem apenas coloque outro embaixo e de tres espaço. Exemplo:
+1. Teste
+1. Teste2
+   1. Teste3
+1. Teste4
+-Lista demarcada:
+* Teste 
+* Teste
+* Teste
+   * Teste
+* Teste
+ou com traço: 
+- Teste 
+- Teste
+- Teste
+   - Teste
+- Teste
 
+-Lista de Tarefas:
+Exemplo:
+- [ ] Criar a página principal
+- [ ] Criar a página
+Para deixar marcada:
+- [x] Finalizar a reunião com o cliente
+
+-Para fazer upload de imagem:
+basta arrastar o arquivo para "Attach files by dragging & dropping...", use imagens nao muito grande, tipo ate 500px de largura, use jpg ou jpeg
+
+-Tabelas
+
+Num | Nome | Nota 
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10,0
+3 | Maria | 9,9
+-Entre crase para deixar com efeito atras para saber que é um comando de programação:
+`document.getElementById()`
+
+- Para colocar um programa:
+```
+async function postarDados(url, product){
+    const res = await fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            body: JSON.stringify(product)
+        }
+    })
+}
+
+```
+
+- Emojis => :nome => :vulcan_salute
+para ter acesso aos nomes => github.com/ikatyang => repositorios => emoji-cheat-sheet => 
+- Para marcar alguem => @nome
 
 
 
